@@ -6,7 +6,7 @@ This system solves context fragmentation and high LLM costs by combining **Hiera
 
 ---
 
-## 💡 System Concepts
+##  System Concepts
 
 Standard RAG pipelines often suffer from a core dilemma: large text chunks dilute semantic precision, while small chunks lose critical context. This project solves that problem by splitting structural context storage from vector search:
 
@@ -21,7 +21,7 @@ When you query the system, it targets the precise child fragment, maps its relat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Runtime:** Node.js (v18+) with strict TypeScript & Native ES Modules.
 * **Vector DB:** Qdrant (Self-hosted via Docker).
@@ -31,7 +31,7 @@ When you query the system, it targets the precise child fragment, maps its relat
 
 ---
 
-## 🚀 Quick Setup & Installation
+##  Quick Setup & Installation
 
 ### 1. Clone and Install Dependencies
 ```bash
@@ -95,7 +95,7 @@ Open your browser and navigate to `http://localhost:3000` to interact with the w
 
 ---
 
-## 🌲 Git Tracking Guidelines
+##  Git Tracking Guidelines
 
 * **Database Files:** The local database items (`local.db`, `local.db-shm`, `local.db-wal`) are git-ignored to keep large changing binaries out of repo histories.
 * **Environment Configuration:** Sensitive credentials (`.env`) are excluded from staging.
