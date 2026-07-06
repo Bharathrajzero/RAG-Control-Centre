@@ -107,8 +107,4 @@ Open your browser and navigate to `http://localhost:3000` to interact with the w
 
 ---
 ## License
-This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup .
-
-```
-
-```
+This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
