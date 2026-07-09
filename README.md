@@ -6,8 +6,8 @@ This system solves context fragmentation and high LLM costs by combining **Hiera
 
 ---
 ## Screenshots
-<img width="1920" height="1079" alt="42" src="https://github.com/user-attachments/assets/593cb7e8-447f-4ba7-ad7a-07b51d810b70" />
 <img width="1920" height="1079" alt="41" src="https://github.com/user-attachments/assets/43d1aa78-9dc5-4f8b-94ca-22ad4820ada0" />
+<img width="1920" height="1079" alt="42" src="https://github.com/user-attachments/assets/593cb7e8-447f-4ba7-ad7a-07b51d810b70" />
 <img width="1920" height="1079" alt="43" src="https://github.com/user-attachments/assets/2d742c30-46f8-4e14-be1b-a52d20373b0b" />
 
 ---
